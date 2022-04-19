@@ -12,7 +12,7 @@
 
 <p>The project was developed in the Visual Studio Code IDE version 1.66.2, using only HTML5 and CSS3.</p>
 
-## 📲 :calling: Instructions for use:
+## :calling: Instructions for use:
 
 You can clone the repository to create the project hosted on your machine or check its working [here](https://pedrowillianmo.github.io/Simple_HTML_And_CSS_Website/).
 
