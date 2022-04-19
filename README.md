@@ -1,4 +1,4 @@
-# Simple HTLM & CSS Website interface.
+# Simple HTML & CSS Website interface.
 
 ![capa_artigo_1](https://user-images.githubusercontent.com/82412708/163899504-6bfbcb77-d5c3-4548-955b-e9bda6364ff0.png)
 
